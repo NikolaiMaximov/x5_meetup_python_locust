@@ -5,7 +5,6 @@
 # date: 17.11.2021
 
 from influxdb import InfluxDBClient
-from datetime import datetime
 from config import settings
 
 
